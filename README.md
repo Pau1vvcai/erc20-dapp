@@ -50,7 +50,7 @@ erc20-dapp/
    ```bash
    git clone https://github.com/<your-username>/erc20-dapp.git
    cd erc20-dapp
-````
+   ```
 
 2. Install dependencies:
 
