@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Hardhat
+artifacts/
+cache/
+
+# Env
+.env
+.env.local
+.env.*
+
+# Addresses
+contract-address.json
